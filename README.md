@@ -1,0 +1,2 @@
+# Identify_Customer_Segments
+Applying unsupervised learning techniques
