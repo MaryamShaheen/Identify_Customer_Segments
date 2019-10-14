@@ -6,11 +6,12 @@ Im this Project I will identify customer segments using AZ Direct GmbH country-w
 
 ## Requirement
 This project requires Python 3.x and the following Python libraries installed:
-<br>* NumPy
-<br>* Pandas
-<br>* matplotlib
-<br>* scikit-learn
-<br>* seaborn
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [seaborn](https://seaborn.pydata.org/)
 
 ## Licenses
 Due to terms of agreement with AZ Direct GmbH, data are not avaliable
